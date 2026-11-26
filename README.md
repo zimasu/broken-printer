@@ -10,7 +10,7 @@ A (hopefully) growing collection of Oxygen Not Included mods.
 
 | Mod | Description | Steam Workshop |
 |-----|-------------|----------------|
-| [ExpressiveDupes](src/ExpressiveDupes) | Dupes smile by default. The flat (._.) face is reserved for stoic dupes. Dupes also carry their selection screen idle animation into the colony — vanilla expressions take over past certain thresholds (stress, sadness, etc.). | *(coming soon)* |
+| [ExpressiveDupes](src/ExpressiveDupes) | Dupes smile by default. The flat (._.) face is reserved for stoic dupes. Dupes also carry their selection screen idle animation into the colony   vanilla expressions take over past certain thresholds (stress, sadness, etc.). | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3846409345) |
 
 ## Building from Source
 
