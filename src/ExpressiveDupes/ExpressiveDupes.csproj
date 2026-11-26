@@ -3,7 +3,7 @@
     <TargetFramework>net48</TargetFramework>
     <LangVersion>latest</LangVersion>
     <ManagedDir>C:\Program Files (x86)\Steam\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\Managed</ManagedDir>
-    <OutDir>C:\Users\Zidane\Documents\Klei\OxygenNotIncluded\mods\Local\ExpressiveDupes\</OutDir>
+    <OutDir>$(USERPROFILE)\Documents\Klei\OxygenNotIncluded\mods\Local\ExpressiveDupes\</OutDir>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
   </PropertyGroup>
