@@ -620,3 +620,5 @@ $RECYCLE.BIN/
 *.pdb
 obj/
 bin/
+
+saved_card_looks.txt
