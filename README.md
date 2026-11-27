@@ -19,7 +19,7 @@ See [Cairath's modding wiki](https://github.com/Cairath/Oxygen-Not-Included-Modd
 
 ## Support
 
-If you enjoy these mods, feel free to [buy me a coffee ?](https://ko-fi.com/zimasu). Its not necessary at all :v
+If you enjoy the mods, feel free to [buy me a coffee.](https://ko-fi.com/zimasu) :v
 
 ## License
 
