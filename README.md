@@ -10,7 +10,8 @@ A (hopefully) growing collection of Oxygen Not Included mods.
 
 | Mod | Description | Steam Workshop |
 |-----|-------------|----------------|
-| [ExpressiveDupes](src/ExpressiveDupes) | Dupes smile by default. The flat (._.) face is reserved for stoic dupes. Dupes also carry their selection screen idle animation into the colony   vanilla expressions take over past certain thresholds (stress, sadness, etc.). | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3846409345) |
+| [ExpressiveDupes](src/ExpressiveDupes) | Dupes smile by default. The flat (._.) face is reserved for stoic dupes. Dupes also carry their selection screen idle animation into the colony — vanilla expressions take over past certain thresholds (stress, sadness, etc.). | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3846409345) |
+| [ImperfectCopy](src/ImperfectCopy) | Duplicants have a realistic aging lifecycle with buffs/debuffs. Based on [Zonkeeh's DuplicantLifecycles](https://github.com/Zonkeeh/ONI-Mods). | WIP |
 
 ## Building from Source
 
@@ -25,3 +26,4 @@ If you enjoy the mods, feel free to [buy me a coffee.](https://ko-fi.com/zimasu)
 
 Source code is licensed under [GPL-3.0](LICENSE).
 Game assets and animations belong to [Klei Entertainment](https://www.klei.com). No distribution.
+
