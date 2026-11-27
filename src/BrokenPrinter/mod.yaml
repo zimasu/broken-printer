@@ -1,0 +1,4 @@
+title: Broken Printer
+description: The printer is broken - it prints randomly and never stops.
+staticID: BrokenPrinter
+supportedContent: VANILLA_ID;EXPANSION1_ID
