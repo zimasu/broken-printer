@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Zolibrary-DLC/Zolibrary-DLC.csproj" />
+  <Project Path="ImperfectCopy.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>DuplicantLifecycles</AssemblyName>
+    <AssemblyTitle>Duplicant Lifecycles</AssemblyTitle>
+    <Product>Duplicant Lifecycles (1.0.8)</Product>
+    <RootNamespace>DuplicantLifecycles</RootNamespace>
+    <Description>Mod that provides effects for duplicant aging.</Description>
+    <AssemblyVersion>1.0.8.1</AssemblyVersion>
+    <FileVersion>18.01.2021</FileVersion>
+    <DLC>true</DLC>
+  </PropertyGroup>
+</Project>
