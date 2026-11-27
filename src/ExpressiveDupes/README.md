@@ -2,7 +2,7 @@
 
 
 
-\[!\[License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](../../LICENSE)
+\[!\[License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/zimasu/broken-printer/blob/main/LICENSE)
 
 \[!\[Ko-fi](https://img.shields.io/badge/Ko--fi-zimasu-FF5E5B?logo=ko-fi\&logoColor=white)](https://ko-fi.com/zimasu)
 
@@ -86,5 +86,5 @@ If this made your dupes a little happier and so did you, feel free to \[buy me a
 
 
 
-Source code is licensed under \[GPL-3.0](../../LICENSE).
+Source code is licensed under \[GPL-3.0](https://github.com/zimasu/broken-printer/blob/main/LICENSE).
 
